@@ -1,4 +1,7 @@
-# Codeforces #
+```diff
+@@ CODEFORCES @@
+```
+
 ## Bunch of codeforces problems ##
 
 
